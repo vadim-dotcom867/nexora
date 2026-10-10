@@ -35,3 +35,5 @@ Created by Vadim as a portfolio project.
 ---
 
 *Exploring the future of AI, one project at a time.*
+
+## 📸 Preview ![NEXORA Preview](nexora-preview.png)
